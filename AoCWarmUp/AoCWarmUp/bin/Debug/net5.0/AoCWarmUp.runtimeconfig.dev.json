@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tilian\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tilian\\.nuget\\packages"
+    ]
+  }
+}

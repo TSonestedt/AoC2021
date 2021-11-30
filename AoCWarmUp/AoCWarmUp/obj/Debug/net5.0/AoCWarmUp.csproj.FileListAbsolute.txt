@@ -1,0 +1,16 @@
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\bin\Debug\net5.0\AoCWarmUp.exe
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\bin\Debug\net5.0\AoCWarmUp.deps.json
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\bin\Debug\net5.0\AoCWarmUp.runtimeconfig.json
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\bin\Debug\net5.0\AoCWarmUp.runtimeconfig.dev.json
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\bin\Debug\net5.0\AoCWarmUp.dll
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\bin\Debug\net5.0\ref\AoCWarmUp.dll
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\bin\Debug\net5.0\AoCWarmUp.pdb
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\obj\Debug\net5.0\AoCWarmUp.csproj.AssemblyReference.cache
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\obj\Debug\net5.0\AoCWarmUp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\obj\Debug\net5.0\AoCWarmUp.AssemblyInfoInputs.cache
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\obj\Debug\net5.0\AoCWarmUp.AssemblyInfo.cs
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\obj\Debug\net5.0\AoCWarmUp.csproj.CoreCompileInputs.cache
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\obj\Debug\net5.0\AoCWarmUp.dll
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\obj\Debug\net5.0\ref\AoCWarmUp.dll
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\obj\Debug\net5.0\AoCWarmUp.pdb
+D:\Code\AoC\AoCWarmUp\AoCWarmUp\obj\Debug\net5.0\AoCWarmUp.genruntimeconfig.cache
