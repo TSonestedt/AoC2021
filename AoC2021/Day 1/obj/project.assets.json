@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\AoC\\Day 1\\Day 1\\Day 1.csproj",
+      "projectUniqueName": "D:\\Code\\AoC\\AoC2021\\Day 1\\Day 1.csproj",
       "projectName": "Day 1",
-      "projectPath": "D:\\Code\\AoC\\Day 1\\Day 1\\Day 1.csproj",
+      "projectPath": "D:\\Code\\AoC\\AoC2021\\Day 1\\Day 1.csproj",
       "packagesPath": "C:\\Users\\Tilian\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\AoC\\Day 1\\Day 1\\obj\\",
+      "outputPath": "D:\\Code\\AoC\\AoC2021\\Day 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tilian\\AppData\\Roaming\\NuGet\\NuGet.Config",

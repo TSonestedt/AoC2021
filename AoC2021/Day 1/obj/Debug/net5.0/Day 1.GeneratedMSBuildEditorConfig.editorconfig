@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Day_1
-build_property.ProjectDir = D:\Code\AoC\Day 1\Day 1\
+build_property.ProjectDir = D:\Code\AoC\AoC2021\Day 1\
