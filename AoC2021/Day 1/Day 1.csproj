@@ -6,4 +6,10 @@
     <RootNamespace>Day_1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="depthdata.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

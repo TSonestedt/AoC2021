@@ -9,7 +9,7 @@ namespace Day_1
         static List<int> depthMeasurements = new List<int>();
         static void Main(string[] args)
         {
-            foreach (string line in File.ReadLines(@"D:\Code\AoC\Day 1\Day 1\depthdata.txt"))
+            foreach (string line in File.ReadLines(@$"{Directory.GetCurrentDirectory()}\depthdata.txt"))
             {
                 depthMeasurements.Add(Int32.Parse(line));
             }
