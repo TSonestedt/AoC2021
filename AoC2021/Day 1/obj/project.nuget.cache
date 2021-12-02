@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OZmsQxNi0T9gY5xZ+bahlN1KLwbYEOvuDd5UcTAS1WeAP5K/uSgfWM/D9OkYjKC/CFgH+GRxJyNbL6cqYGxdpg==",
+  "dgSpecHash": "D0lJ9ecZJhiBcXRBtXrlTlMXXZkzoCIHEaXRQcOx25Ui0vLqB0Vr+QS27IfvDeN+QcYP7cBp7Ymib+tdR9fZIQ==",
   "success": true,
-  "projectFilePath": "D:\\Code\\AoC\\AoC2021\\Day 1\\Day 1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Tilian\\Source\\Repos\\AoC2021\\AoC2021\\Day 1\\Day 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tilian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Tilian\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tilian\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tilian\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
