@@ -10,8 +10,7 @@ namespace Day_4
         static List<int> numbers = new List<int>();
         static List<int[,]> boards = new List<int[,]>();
         static List<int[,]> boards_copy = new List<int[,]>();
-        static List<int[,]> markedBoards = new List<int[,]>();
-        static List<int[,]> markedBoards_copy = new List<int[,]>();
+
         static void Main(string[] args)
         {
             var input = File.ReadAllText(@$"{Directory.GetCurrentDirectory()}\BingoData.txt");
@@ -28,9 +27,8 @@ namespace Day_4
             {
                 string[] rows = inputs[boardIndex].Split("\r\n");
                 int[,] board = new int[5, 5];
-                int[,] emptyBoard = new int[5, 5];
                 int[,] board_copy = new int[5, 5];
-                int[,] emptyBoard_copy = new int[5, 5];
+
 
                 for (int row = 0; row < rows.Length; row++)
                 {
@@ -39,16 +37,12 @@ namespace Day_4
                     {
                         board[row, column] = Convert.ToInt32(numbersInRow[column]);
                         board_copy[row, column] = Convert.ToInt32(numbersInRow[column]);
-                        emptyBoard[row, column] = -1;
-                        emptyBoard_copy[row, column] = -1;
                     }
 
                 }
 
                 boards.Add(board);
                 boards_copy.Add(board_copy);
-                markedBoards.Add(emptyBoard);
-                markedBoards_copy.Add(emptyBoard_copy);
 
             }
 
