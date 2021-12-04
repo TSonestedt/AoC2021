@@ -1,0 +1,16 @@
+D:\Code\AoC\AoC2021\Day 3\Day 3\bin\Debug\net6.0\Day 3.exe
+D:\Code\AoC\AoC2021\Day 3\Day 3\bin\Debug\net6.0\DiagnosticReport.txt
+D:\Code\AoC\AoC2021\Day 3\Day 3\bin\Debug\net6.0\Day 3.deps.json
+D:\Code\AoC\AoC2021\Day 3\Day 3\bin\Debug\net6.0\Day 3.runtimeconfig.json
+D:\Code\AoC\AoC2021\Day 3\Day 3\bin\Debug\net6.0\Day 3.dll
+D:\Code\AoC\AoC2021\Day 3\Day 3\bin\Debug\net6.0\ref\Day 3.dll
+D:\Code\AoC\AoC2021\Day 3\Day 3\bin\Debug\net6.0\Day 3.pdb
+D:\Code\AoC\AoC2021\Day 3\Day 3\obj\Debug\net6.0\Day 3.csproj.AssemblyReference.cache
+D:\Code\AoC\AoC2021\Day 3\Day 3\obj\Debug\net6.0\Day 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AoC\AoC2021\Day 3\Day 3\obj\Debug\net6.0\Day 3.AssemblyInfoInputs.cache
+D:\Code\AoC\AoC2021\Day 3\Day 3\obj\Debug\net6.0\Day 3.AssemblyInfo.cs
+D:\Code\AoC\AoC2021\Day 3\Day 3\obj\Debug\net6.0\Day 3.csproj.CoreCompileInputs.cache
+D:\Code\AoC\AoC2021\Day 3\Day 3\obj\Debug\net6.0\Day 3.dll
+D:\Code\AoC\AoC2021\Day 3\Day 3\obj\Debug\net6.0\ref\Day 3.dll
+D:\Code\AoC\AoC2021\Day 3\Day 3\obj\Debug\net6.0\Day 3.pdb
+D:\Code\AoC\AoC2021\Day 3\Day 3\obj\Debug\net6.0\Day 3.genruntimeconfig.cache
