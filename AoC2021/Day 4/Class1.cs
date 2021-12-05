@@ -9,13 +9,13 @@ namespace Day_4
     {
 
 
-        static void Main(string[] args)
-        {
+        //static void Main(string[] args)
+        //{
 
-            FirstStar();
-            SecondStar();
+        //    FirstStar();
+        //    SecondStar();
 
-        }
+        //}
 
         static (List<int>, List<int[,]>) ReadInput()
         {

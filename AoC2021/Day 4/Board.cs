@@ -22,26 +22,26 @@ namespace Day_4
 
         }
 
-        private CheckIfBingo()
-        {
-            var hasCompleteRow = true;
-            var hasCompleteColumn = true;
+        //private CheckIfBingo()
+        //{
+        //    var hasCompleteRow = true;
+        //    var hasCompleteColumn = true;
 
-            foreach( var row in Matrix)
-            {
-                foreach(var number in row)
-                {
-                    if (!number.marked)
-                    {
-                        hasCompleteRow = false;
-                    }
-                }
-            }
+        //    foreach( var row in Matrix)
+        //    {
+        //        foreach(var number in row)
+        //        {
+        //            if (!number.marked)
+        //            {
+        //                hasCompleteRow = false;
+        //            }
+        //        }
+        //    }
 
-            for(int column = 0; column < Matrix.GetLength(2); column++)
-            {
+        //    for(int column = 0; column < Matrix.GetLength(2); column++)
+        //    {
 
-            }
-        }
+        //    }
+        //}
     }
 }
