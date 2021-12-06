@@ -1,0 +1,16 @@
+D:\Code\AoC\AoC2021\Day 6\bin\Debug\net6.0\Day 6.exe
+D:\Code\AoC\AoC2021\Day 6\bin\Debug\net6.0\Day 6.deps.json
+D:\Code\AoC\AoC2021\Day 6\bin\Debug\net6.0\Day 6.runtimeconfig.json
+D:\Code\AoC\AoC2021\Day 6\bin\Debug\net6.0\Day 6.dll
+D:\Code\AoC\AoC2021\Day 6\bin\Debug\net6.0\ref\Day 6.dll
+D:\Code\AoC\AoC2021\Day 6\bin\Debug\net6.0\Day 6.pdb
+D:\Code\AoC\AoC2021\Day 6\obj\Debug\net6.0\Day 6.csproj.AssemblyReference.cache
+D:\Code\AoC\AoC2021\Day 6\obj\Debug\net6.0\Day 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AoC\AoC2021\Day 6\obj\Debug\net6.0\Day 6.AssemblyInfoInputs.cache
+D:\Code\AoC\AoC2021\Day 6\obj\Debug\net6.0\Day 6.AssemblyInfo.cs
+D:\Code\AoC\AoC2021\Day 6\obj\Debug\net6.0\Day 6.csproj.CoreCompileInputs.cache
+D:\Code\AoC\AoC2021\Day 6\obj\Debug\net6.0\Day 6.dll
+D:\Code\AoC\AoC2021\Day 6\obj\Debug\net6.0\ref\Day 6.dll
+D:\Code\AoC\AoC2021\Day 6\obj\Debug\net6.0\Day 6.pdb
+D:\Code\AoC\AoC2021\Day 6\obj\Debug\net6.0\Day 6.genruntimeconfig.cache
+D:\Code\AoC\AoC2021\Day 6\bin\Debug\net6.0\LanternfishesInternalClocks.txt
