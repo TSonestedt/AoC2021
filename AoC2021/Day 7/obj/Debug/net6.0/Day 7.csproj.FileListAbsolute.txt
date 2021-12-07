@@ -1,0 +1,16 @@
+D:\Code\AoC\AoC2021\Day 7\bin\Debug\net6.0\Day 7.exe
+D:\Code\AoC\AoC2021\Day 7\bin\Debug\net6.0\Day 7.deps.json
+D:\Code\AoC\AoC2021\Day 7\bin\Debug\net6.0\Day 7.runtimeconfig.json
+D:\Code\AoC\AoC2021\Day 7\bin\Debug\net6.0\Day 7.dll
+D:\Code\AoC\AoC2021\Day 7\bin\Debug\net6.0\ref\Day 7.dll
+D:\Code\AoC\AoC2021\Day 7\bin\Debug\net6.0\Day 7.pdb
+D:\Code\AoC\AoC2021\Day 7\obj\Debug\net6.0\Day 7.csproj.AssemblyReference.cache
+D:\Code\AoC\AoC2021\Day 7\obj\Debug\net6.0\Day 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AoC\AoC2021\Day 7\obj\Debug\net6.0\Day 7.AssemblyInfoInputs.cache
+D:\Code\AoC\AoC2021\Day 7\obj\Debug\net6.0\Day 7.AssemblyInfo.cs
+D:\Code\AoC\AoC2021\Day 7\obj\Debug\net6.0\Day 7.csproj.CoreCompileInputs.cache
+D:\Code\AoC\AoC2021\Day 7\obj\Debug\net6.0\Day 7.dll
+D:\Code\AoC\AoC2021\Day 7\obj\Debug\net6.0\ref\Day 7.dll
+D:\Code\AoC\AoC2021\Day 7\obj\Debug\net6.0\Day 7.pdb
+D:\Code\AoC\AoC2021\Day 7\obj\Debug\net6.0\Day 7.genruntimeconfig.cache
+D:\Code\AoC\AoC2021\Day 7\bin\Debug\net6.0\CrabsPosition.txt
