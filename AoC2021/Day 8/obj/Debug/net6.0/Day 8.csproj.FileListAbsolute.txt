@@ -1,0 +1,16 @@
+D:\Code\AoC\AoC2021\Day 8\bin\Debug\net6.0\Day 8.exe
+D:\Code\AoC\AoC2021\Day 8\bin\Debug\net6.0\SignalPatterns.txt
+D:\Code\AoC\AoC2021\Day 8\bin\Debug\net6.0\Day 8.deps.json
+D:\Code\AoC\AoC2021\Day 8\bin\Debug\net6.0\Day 8.runtimeconfig.json
+D:\Code\AoC\AoC2021\Day 8\bin\Debug\net6.0\Day 8.dll
+D:\Code\AoC\AoC2021\Day 8\bin\Debug\net6.0\ref\Day 8.dll
+D:\Code\AoC\AoC2021\Day 8\bin\Debug\net6.0\Day 8.pdb
+D:\Code\AoC\AoC2021\Day 8\obj\Debug\net6.0\Day 8.csproj.AssemblyReference.cache
+D:\Code\AoC\AoC2021\Day 8\obj\Debug\net6.0\Day 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AoC\AoC2021\Day 8\obj\Debug\net6.0\Day 8.AssemblyInfoInputs.cache
+D:\Code\AoC\AoC2021\Day 8\obj\Debug\net6.0\Day 8.AssemblyInfo.cs
+D:\Code\AoC\AoC2021\Day 8\obj\Debug\net6.0\Day 8.csproj.CoreCompileInputs.cache
+D:\Code\AoC\AoC2021\Day 8\obj\Debug\net6.0\Day 8.dll
+D:\Code\AoC\AoC2021\Day 8\obj\Debug\net6.0\ref\Day 8.dll
+D:\Code\AoC\AoC2021\Day 8\obj\Debug\net6.0\Day 8.pdb
+D:\Code\AoC\AoC2021\Day 8\obj\Debug\net6.0\Day 8.genruntimeconfig.cache
