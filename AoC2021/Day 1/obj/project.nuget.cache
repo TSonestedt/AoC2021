@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zfJEsCEeFni2WJoxwgYwWSn0Rr0gr48MR3jVQIVO5zbJUct8Ut6AeR9NHS4nx5D50jskYAST5kvCCjNHkjjAyw==",
+  "dgSpecHash": "e0LxePQPKBPBXA8wstz2+5IaB/Nj06mvkG7BODBPaOQok7QuxT28sE9e1jh2giwZB9IFGoUy0DS6OuNy9+uWNQ==",
   "success": true,
-  "projectFilePath": "D:\\Code\\AoC\\AoC2021\\Day 1\\Day 1.csproj",
+  "projectFilePath": "D:\\Code\\AoC\\AoC2021\\Day 1\\Day 01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

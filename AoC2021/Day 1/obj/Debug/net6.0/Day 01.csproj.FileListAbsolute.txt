@@ -1,0 +1,15 @@
+D:\Code\AoC\AoC2021\Day 1\bin\Debug\net6.0\Day 01.exe
+D:\Code\AoC\AoC2021\Day 1\bin\Debug\net6.0\Depthdata.txt
+D:\Code\AoC\AoC2021\Day 1\bin\Debug\net6.0\Day 01.deps.json
+D:\Code\AoC\AoC2021\Day 1\bin\Debug\net6.0\Day 01.runtimeconfig.json
+D:\Code\AoC\AoC2021\Day 1\bin\Debug\net6.0\Day 01.dll
+D:\Code\AoC\AoC2021\Day 1\bin\Debug\net6.0\ref\Day 01.dll
+D:\Code\AoC\AoC2021\Day 1\bin\Debug\net6.0\Day 01.pdb
+D:\Code\AoC\AoC2021\Day 1\obj\Debug\net6.0\Day 01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AoC\AoC2021\Day 1\obj\Debug\net6.0\Day 01.AssemblyInfoInputs.cache
+D:\Code\AoC\AoC2021\Day 1\obj\Debug\net6.0\Day 01.AssemblyInfo.cs
+D:\Code\AoC\AoC2021\Day 1\obj\Debug\net6.0\Day 01.csproj.CoreCompileInputs.cache
+D:\Code\AoC\AoC2021\Day 1\obj\Debug\net6.0\Day 01.dll
+D:\Code\AoC\AoC2021\Day 1\obj\Debug\net6.0\ref\Day 01.dll
+D:\Code\AoC\AoC2021\Day 1\obj\Debug\net6.0\Day 01.pdb
+D:\Code\AoC\AoC2021\Day 1\obj\Debug\net6.0\Day 01.genruntimeconfig.cache

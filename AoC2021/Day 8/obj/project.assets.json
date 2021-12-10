@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\AoC\\AoC2021\\Day 8\\Day 8.csproj",
-      "projectName": "Day 8",
-      "projectPath": "D:\\Code\\AoC\\AoC2021\\Day 8\\Day 8.csproj",
+      "projectUniqueName": "D:\\Code\\AoC\\AoC2021\\Day 8\\Day 08.csproj",
+      "projectName": "Day 08",
+      "projectPath": "D:\\Code\\AoC\\AoC2021\\Day 8\\Day 08.csproj",
       "packagesPath": "C:\\Users\\Tilian\\.nuget\\packages\\",
       "outputPath": "D:\\Code\\AoC\\AoC2021\\Day 8\\obj\\",
       "projectStyle": "PackageReference",
