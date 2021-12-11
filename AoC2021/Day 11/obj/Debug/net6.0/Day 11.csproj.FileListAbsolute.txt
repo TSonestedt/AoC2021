@@ -1,0 +1,16 @@
+D:\Code\AoC\AoC2021\Day 11\bin\Debug\net6.0\Day 11.exe
+D:\Code\AoC\AoC2021\Day 11\bin\Debug\net6.0\Day 11.deps.json
+D:\Code\AoC\AoC2021\Day 11\bin\Debug\net6.0\Day 11.runtimeconfig.json
+D:\Code\AoC\AoC2021\Day 11\bin\Debug\net6.0\Day 11.dll
+D:\Code\AoC\AoC2021\Day 11\bin\Debug\net6.0\ref\Day 11.dll
+D:\Code\AoC\AoC2021\Day 11\bin\Debug\net6.0\Day 11.pdb
+D:\Code\AoC\AoC2021\Day 11\obj\Debug\net6.0\Day 11.csproj.AssemblyReference.cache
+D:\Code\AoC\AoC2021\Day 11\obj\Debug\net6.0\Day 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AoC\AoC2021\Day 11\obj\Debug\net6.0\Day 11.AssemblyInfoInputs.cache
+D:\Code\AoC\AoC2021\Day 11\obj\Debug\net6.0\Day 11.AssemblyInfo.cs
+D:\Code\AoC\AoC2021\Day 11\obj\Debug\net6.0\Day 11.csproj.CoreCompileInputs.cache
+D:\Code\AoC\AoC2021\Day 11\obj\Debug\net6.0\Day 11.dll
+D:\Code\AoC\AoC2021\Day 11\obj\Debug\net6.0\ref\Day 11.dll
+D:\Code\AoC\AoC2021\Day 11\obj\Debug\net6.0\Day 11.pdb
+D:\Code\AoC\AoC2021\Day 11\obj\Debug\net6.0\Day 11.genruntimeconfig.cache
+D:\Code\AoC\AoC2021\Day 11\bin\Debug\net6.0\OctopiEnergyLevels.txt

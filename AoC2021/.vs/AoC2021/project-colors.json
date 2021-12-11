@@ -3,49 +3,54 @@
   "ProjectMap": {
     "4d32a5f2-0847-4083-8d9e-629f9a2f1c22": {
       "ProjectGuid": "4d32a5f2-0847-4083-8d9e-629f9a2f1c22",
-      "DisplayName": "Day 1",
+      "DisplayName": "Day 01",
       "ColorIndex": 0
     },
     "b96fe9ff-0653-4938-a3e5-2402e5b9dde7": {
       "ProjectGuid": "b96fe9ff-0653-4938-a3e5-2402e5b9dde7",
-      "DisplayName": "Day 2",
+      "DisplayName": "Day 02",
       "ColorIndex": 1
     },
     "57e0402b-7540-4ec8-893d-7078bb51a9ad": {
       "ProjectGuid": "57e0402b-7540-4ec8-893d-7078bb51a9ad",
-      "DisplayName": "Day 3",
+      "DisplayName": "Day 03",
       "ColorIndex": 2
     },
     "084e461b-a6c4-4d9d-997f-e0d7d6d9ffd8": {
       "ProjectGuid": "084e461b-a6c4-4d9d-997f-e0d7d6d9ffd8",
-      "DisplayName": "Day 4",
+      "DisplayName": "Day 04",
       "ColorIndex": 3
     },
     "55d5d102-572d-4398-83c0-c61532e50af6": {
       "ProjectGuid": "55d5d102-572d-4398-83c0-c61532e50af6",
-      "DisplayName": "Day 5",
+      "DisplayName": "Day 05",
       "ColorIndex": 4
     },
     "7491bf7e-b356-4b3a-8e43-d218a18074f4": {
       "ProjectGuid": "7491bf7e-b356-4b3a-8e43-d218a18074f4",
-      "DisplayName": "Day 6",
+      "DisplayName": "Day 06",
       "ColorIndex": 5
     },
     "dcc2a6d3-84fe-4d2f-be6d-0812f5fabcee": {
       "ProjectGuid": "dcc2a6d3-84fe-4d2f-be6d-0812f5fabcee",
-      "DisplayName": "Day 7",
+      "DisplayName": "Day 07",
       "ColorIndex": 6
     },
     "c7eed277-2970-4ca8-ad6c-b8b0ead97717": {
       "ProjectGuid": "c7eed277-2970-4ca8-ad6c-b8b0ead97717",
-      "DisplayName": "Day 8",
+      "DisplayName": "Day 08",
       "ColorIndex": 7
     },
     "3a823661-370f-4da9-860e-508dcd9a7cb3": {
       "ProjectGuid": "3a823661-370f-4da9-860e-508dcd9a7cb3",
-      "DisplayName": "Day 9",
+      "DisplayName": "Day 09",
       "ColorIndex": 8
+    },
+    "7621065b-2de2-4c09-b076-19564f5b88d2": {
+      "ProjectGuid": "7621065b-2de2-4c09-b076-19564f5b88d2",
+      "DisplayName": "Day 10",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }
