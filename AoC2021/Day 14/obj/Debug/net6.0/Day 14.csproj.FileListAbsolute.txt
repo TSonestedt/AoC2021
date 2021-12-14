@@ -1,0 +1,16 @@
+D:\Code\AoC\AoC2021\Day 14\obj\Debug\net6.0\Day 14.csproj.AssemblyReference.cache
+D:\Code\AoC\AoC2021\Day 14\obj\Debug\net6.0\Day 14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AoC\AoC2021\Day 14\obj\Debug\net6.0\Day 14.AssemblyInfoInputs.cache
+D:\Code\AoC\AoC2021\Day 14\obj\Debug\net6.0\Day 14.AssemblyInfo.cs
+D:\Code\AoC\AoC2021\Day 14\obj\Debug\net6.0\Day 14.csproj.CoreCompileInputs.cache
+D:\Code\AoC\AoC2021\Day 14\bin\Debug\net6.0\Day 14.exe
+D:\Code\AoC\AoC2021\Day 14\bin\Debug\net6.0\PolymerTemplate.txt
+D:\Code\AoC\AoC2021\Day 14\bin\Debug\net6.0\Day 14.deps.json
+D:\Code\AoC\AoC2021\Day 14\bin\Debug\net6.0\Day 14.runtimeconfig.json
+D:\Code\AoC\AoC2021\Day 14\bin\Debug\net6.0\Day 14.dll
+D:\Code\AoC\AoC2021\Day 14\bin\Debug\net6.0\ref\Day 14.dll
+D:\Code\AoC\AoC2021\Day 14\bin\Debug\net6.0\Day 14.pdb
+D:\Code\AoC\AoC2021\Day 14\obj\Debug\net6.0\Day 14.dll
+D:\Code\AoC\AoC2021\Day 14\obj\Debug\net6.0\ref\Day 14.dll
+D:\Code\AoC\AoC2021\Day 14\obj\Debug\net6.0\Day 14.pdb
+D:\Code\AoC\AoC2021\Day 14\obj\Debug\net6.0\Day 14.genruntimeconfig.cache
