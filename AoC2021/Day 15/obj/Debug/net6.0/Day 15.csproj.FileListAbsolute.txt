@@ -1,0 +1,16 @@
+D:\Code\AoC\AoC2021\Day 15\bin\Debug\net6.0\Day 15.exe
+D:\Code\AoC\AoC2021\Day 15\bin\Debug\net6.0\ChitonRiskLevel.txt
+D:\Code\AoC\AoC2021\Day 15\bin\Debug\net6.0\Day 15.deps.json
+D:\Code\AoC\AoC2021\Day 15\bin\Debug\net6.0\Day 15.runtimeconfig.json
+D:\Code\AoC\AoC2021\Day 15\bin\Debug\net6.0\Day 15.dll
+D:\Code\AoC\AoC2021\Day 15\bin\Debug\net6.0\ref\Day 15.dll
+D:\Code\AoC\AoC2021\Day 15\bin\Debug\net6.0\Day 15.pdb
+D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\Day 15.csproj.AssemblyReference.cache
+D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\Day 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\Day 15.AssemblyInfoInputs.cache
+D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\Day 15.AssemblyInfo.cs
+D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\Day 15.csproj.CoreCompileInputs.cache
+D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\Day 15.dll
+D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\ref\Day 15.dll
+D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\Day 15.pdb
+D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\Day 15.genruntimeconfig.cache
