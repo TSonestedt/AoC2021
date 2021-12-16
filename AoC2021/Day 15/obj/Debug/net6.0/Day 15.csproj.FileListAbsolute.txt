@@ -14,3 +14,19 @@ D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\Day 15.dll
 D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\ref\Day 15.dll
 D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\Day 15.pdb
 D:\Code\AoC\AoC2021\Day 15\obj\Debug\net6.0\Day 15.genruntimeconfig.cache
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\bin\Debug\net6.0\Day 15.exe
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\bin\Debug\net6.0\ChitonRiskLevel.txt
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\bin\Debug\net6.0\Day 15.deps.json
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\bin\Debug\net6.0\Day 15.runtimeconfig.json
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\bin\Debug\net6.0\Day 15.dll
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\bin\Debug\net6.0\ref\Day 15.dll
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\bin\Debug\net6.0\Day 15.pdb
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\obj\Debug\net6.0\Day 15.csproj.AssemblyReference.cache
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\obj\Debug\net6.0\Day 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\obj\Debug\net6.0\Day 15.AssemblyInfoInputs.cache
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\obj\Debug\net6.0\Day 15.AssemblyInfo.cs
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\obj\Debug\net6.0\Day 15.csproj.CoreCompileInputs.cache
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\obj\Debug\net6.0\Day 15.dll
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\obj\Debug\net6.0\ref\Day 15.dll
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\obj\Debug\net6.0\Day 15.pdb
+C:\Users\Tilian\source\repos\AoC2021\AoC2021\Day 15\obj\Debug\net6.0\Day 15.genruntimeconfig.cache

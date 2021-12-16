@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\AoC\\AoC2021\\Day 5\\Day 05.csproj": {}
+    "C:\\Users\\Tilian\\source\\repos\\AoC2021\\AoC2021\\Day 5\\Day 05.csproj": {}
   },
   "projects": {
-    "D:\\Code\\AoC\\AoC2021\\Day 5\\Day 05.csproj": {
+    "C:\\Users\\Tilian\\source\\repos\\AoC2021\\AoC2021\\Day 5\\Day 05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\AoC\\AoC2021\\Day 5\\Day 05.csproj",
+        "projectUniqueName": "C:\\Users\\Tilian\\source\\repos\\AoC2021\\AoC2021\\Day 5\\Day 05.csproj",
         "projectName": "Day 05",
-        "projectPath": "D:\\Code\\AoC\\AoC2021\\Day 5\\Day 05.csproj",
+        "projectPath": "C:\\Users\\Tilian\\source\\repos\\AoC2021\\AoC2021\\Day 5\\Day 05.csproj",
         "packagesPath": "C:\\Users\\Tilian\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\AoC\\AoC2021\\Day 5\\obj\\",
+        "outputPath": "C:\\Users\\Tilian\\source\\repos\\AoC2021\\AoC2021\\Day 5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tilian\\AppData\\Roaming\\NuGet\\NuGet.Config",

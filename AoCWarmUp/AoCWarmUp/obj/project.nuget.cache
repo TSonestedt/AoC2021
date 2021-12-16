@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "j5ppwywrDJZSke0dmdm7FtUyHQowO2pNrGjuATmwTMgFtHZ+WEH5SeFJ4/qQPZ7a5qpkkSjb7VD5LejQ/CPpbQ==",
+  "dgSpecHash": "aE2UZ9qbr2N3Ystnu0hjjlduqTJJcsucD7L+kEqRL55Mk9Hk1gJ3WjvFnKpJYqHLfGqn7NvTCLQg6GYbs8CniQ==",
   "success": true,
-  "projectFilePath": "D:\\Code\\AoC\\AoCWarmUp\\AoCWarmUp\\AoCWarmUp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Tilian\\Source\\Repos\\AoC2021\\AoCWarmUp\\AoCWarmUp\\AoCWarmUp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tilian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Tilian\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tilian\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tilian\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

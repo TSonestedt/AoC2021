@@ -18,10 +18,10 @@ namespace Day_15
 
         }
 
-        static int[][] ReadInput()
+        static (int risklevel, int cost)[][] ReadInput()
         {
             var chitonRiskLevel = File.ReadLines(@$"{Directory.GetCurrentDirectory()}\ChitonRiskLevel.txt")
-                .Select(line => line.Select(x => Convert.ToInt32(x.ToString())).ToArray())
+                .Select(line => line.Select(x => (Convert.ToInt32(x.ToString()), int.MaxValue)).ToArray())
                 .ToArray();
 
             return chitonRiskLevel;
@@ -30,28 +30,32 @@ namespace Day_15
         {
             var input = ReadInput();
 
-            FindSafestPath(input, 0, 0, new List<(int y, int x)>(), 0);
+            FindSafestPath(input, 0, 0, /*new List<(int y, int x)>(),*/ 0);
 
             Console.WriteLine(lowestTotalRisk);
 
             return;
         }
-        static void FindSafestPath(int[][] riskLevels, int y, int x, List<(int y, int x)> path, int sumOfPath)
+        static void FindSafestPath((int risklevel, int cost)[][] riskLevels, int y, int x, /*List<(int y, int x)> path,*/ int sumOfPath)
         {
 
-            var currentPath = new List<(int y, int x)>();
-            foreach (var position in path)
+            //var currentPath = new List<(int y, int x)>();
+            //foreach (var position in path)
+            //{
+            //    currentPath.Add(position);
+            //}
+
+            //currentPath.Add((y, x));
+
+            if (riskLevels[y][x].cost > sumOfPath)
             {
-                currentPath.Add(position);
+                riskLevels[y][x].cost = sumOfPath;
             }
-
-
-            currentPath.Add((y, x));
-
-            if(currentPath.Count > riskLevels.Count() * 2.4)
+            else
             {
                 return;
             }
+
             var north = (y: y - 1, x);
             var south = (y: y + 1, x);
             var west = (y, x: x - 1);
@@ -63,8 +67,8 @@ namespace Day_15
                 direction.x >= 0 &&
                 direction.y >= 0 &&
                 direction.x < riskLevels[0].Length &&
-                direction.y < riskLevels.Count() &&
-                !path.Contains(direction)).ToList();
+                direction.y < riskLevels.Count() /*&&
+                !path.Contains(direction)*/).ToList();
 
             if (validDirections.Contains((riskLevels.Count() - 1, riskLevels[0].Length - 1)))
             {
@@ -72,22 +76,19 @@ namespace Day_15
                 validDirections.Add((riskLevels.Count() - 1, riskLevels[0].Length - 1));
             }
 
-            if (y == riskLevels.Count() - 1 && x == riskLevels[0].Length - 1 && sumOfPath < lowestTotalRisk)
+            if (y == riskLevels.Count() - 1 && x == riskLevels[0].Length - 1)
             {
                 lowestTotalRisk = sumOfPath;
 
-                paths.Add((currentPath, sumOfPath));
+              //  paths.Add((currentPath, sumOfPath));
 
             }
             else
             {
                 foreach (var direction in validDirections)
                 {
-                    if (sumOfPath < lowestTotalRisk)
-                    {
-                        FindSafestPath(riskLevels, direction.y, direction.x, currentPath, sumOfPath + riskLevels[direction.y][direction.x]);
-                    }
-                    else return;
+                    FindSafestPath(riskLevels, direction.y, direction.x,/* currentPath,*/ sumOfPath + riskLevels[direction.y][direction.x].risklevel);
+
                 }
             }
 
